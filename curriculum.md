@@ -35,8 +35,7 @@ Nodes:
 - Node selector
 
 Expose App:
-- Cluster IP (Create)
-- Cluster IP (Access)
+- Cluster IP
 - Load Balancer
 - Node Port
 
